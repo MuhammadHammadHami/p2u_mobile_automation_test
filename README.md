@@ -1,4 +1,4 @@
-# p2uWallet-androidAutomationTest
+# P2U Mobile Automation Test
 
 ## Overview
 
